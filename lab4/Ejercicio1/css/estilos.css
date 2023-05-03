@@ -1,0 +1,36 @@
+.e1{
+    display: flex;
+    justify-content: space-between;
+}
+.e2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.e{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    width: 300px;
+    padding: 2px;
+}
+img {
+    display: inline-block;
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* colores */
+
+.e1 p{
+    color: cadetblue;
+    font-weight: bold;
+}
+.sub{
+    color: cadetblue;
+    font-weight: bold;
+}
+.cont{
+    color:darkcyan;
+    font-weight: bold;
+}
